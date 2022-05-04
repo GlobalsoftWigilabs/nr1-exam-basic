@@ -37,6 +37,7 @@ El objetivo de esta parte es hacer un analisis de la aplicacion que esta en el s
 Esta es una aplicacion que fue mal diseñada, parte del problema es el consumo de memoria que va creciendo.    
 - Cuales crees que son las deficiencias que tiene la aplicacion?
 - Que mejoras propones?
-- Donde crees que se cometieron los errores?
+- Donde crees que se cometieron los errores?   
+
 Tu respuesta la puedes enviar al siguiente [correo](mailto:rsamanez@wigilabs.com)
 
